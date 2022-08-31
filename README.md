@@ -2,6 +2,10 @@
 
 ## Overview
 
+Run with 
+```
+wasm-pack build --target web
+```
 ## Info
 
 ```
